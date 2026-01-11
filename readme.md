@@ -19,6 +19,10 @@ You can reuse this guide for **any MERN project**.
 
 ---
 
+## Only Project Update
+
+[Click here to go to the project update guide](project-update.md)
+
 ## 1️⃣ SERVER PREPARATION (One-time)
 
 ### 🔹 Update system
