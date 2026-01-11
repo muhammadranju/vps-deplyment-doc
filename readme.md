@@ -19,7 +19,7 @@ You can reuse this guide for **any MERN project**.
 
 ---
 
-## Only Project Update
+## 🚨 Follow this guide when you update your code on GitHub
 
 [Click here to go to the project update guide](project-update.md)
 
